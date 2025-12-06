@@ -188,21 +188,21 @@ textarea{min-height:120px;resize:vertical;}
   <div class="cards" style="display:flex;gap:25px;justify-content:center;flex-wrap:wrap;">
 
     <div class="card" style="text-align:center;border:2px solid #bfdcff;">
-      <img src="https://dyanvafamilyser1525-lydsc.wordpress.com/wp-content/uploads/2025/12/founder.jpg" alt="Prince Flowers — Executive Director" style="max-width:140px;border-radius:8px;">
+      <img src="assets/founder.jpg" alt="Prince Flowers — Executive Director" style="max-width:140px;border-radius:8px;">
       <h3 style="color:#004aad;">Prince Flowers</h3>
       <p class="small-muted">Executive Director</p>
       <button class="btn btn-outline" onclick="openModal('m1')">Read More</button>
     </div>
 
     <div class="card" style="text-align:center;border:2px solid #bfdcff;">
-      <img src="https://dyanvafamilyser1525-lydsc.wordpress.com/wp-content/uploads/2025/12/co-founder.jpg" alt="Nancee Daniels — Co-Director" style="width:120px;height:120px;border-radius:50%;">
+      <img src="assets/co-founder.jpg" alt="Nancee Daniels — Co-Director" style="width:120px;height:120px;border-radius:50%;">
       <h3 style="color:#004aad;">Nancee Daniels</h3>
       <p class="small-muted">Co-Director</p>
       <button class="btn btn-outline" onclick="openModal('m2')">Read More</button>
     </div>
 
     <div class="card" style="text-align:center;border:2px solid #bfdcff;">
-      <img src="https://dyanvafamilyser1525-lydsc.wordpress.com/wp-content/uploads/2025/12/chairman.jpg" alt="Chris Miller — Chairman" style="width:120px;height:120px;border-radius:50%;">
+      <img src="assets/chairman.jpg" alt="Chris Miller — Chairman" style="width:120px;height:120px;border-radius:50%;">
       <h3 style="color:#004aad;">Chris Miller</h3>
       <p class="small-muted">Chairman</p>
       <button class="btn btn-outline" onclick="openModal('m3')">Read More</button>
