@@ -111,7 +111,7 @@ textarea{min-height:120px;resize:vertical;}
 <header class="header">
   <div class="inner">
     <a href="#home" class="brand" aria-label="DyanVa Family Services Ltd. Home">
-      <img src="https://dyanvafamilyser1525-lydsc.wordpress.com/wp-content/uploads/2025/12/2025-11-30-14.27.40.jpg" alt="DyanVa logo" class="logo-img">
+      <img src="assets/logo.jpg">
       <div>
         <div style="font-weight:800;color:#0b1220;">DyanVa Family Services Ltd.</div>
         <div style="font-size:12px;color:#666;font-weight:600;">Empowering lives, One Step at a Time</div>
